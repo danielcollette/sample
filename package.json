@@ -1,0 +1,19 @@
+{
+  "name": "dc-sample-pkg",
+  "version": "1.0.0",
+  "description": "a sample pkg",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://danielcollette@github.com/danielcollette/sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcollette/sample/issues"
+  },
+  "homepage": "https://github.com/danielcollette/sample#readme"
+}
