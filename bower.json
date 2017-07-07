@@ -1,0 +1,17 @@
+{
+  "name": "dc-sample-pkg",
+  "description": "a sample pkg",
+  "main": "sample.js",
+  "authors": [
+    "danielcollette <daniel.collette@pb.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/danielcollette/sample",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
